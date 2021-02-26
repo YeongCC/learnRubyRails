@@ -1,5 +1,5 @@
 # README
-<a href="https://github.com/YeongCC/learnRubyRails"><img src="https://cdn.iconscout.com/icon/free/png-256/ruby-47-1175102.png" /></a>
+<a href="https://github.com/YeongCC/learnRubyRails"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHPaWGTJnwzjsMKdx6Q_--tDnITNR5aEvQyQ&usqp=CAU" /></a>
 
 
 This README would normally document whatever steps are necessary to get the
