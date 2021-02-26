@@ -1,6 +1,6 @@
 # README
 
-<img src="https://cdn.iconscout.com/icon/free/png-256/ruby-47-1175102.png" style="width:20%;height:20%;"/>
+<a href="https://github.com/YeongCC/learnRubyRails"><img src="https://cdn.iconscout.com/icon/free/png-256/ruby-47-1175102.png" /></a>
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
