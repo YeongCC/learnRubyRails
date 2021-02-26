@@ -1,6 +1,6 @@
 # README
 
-<img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20190902124355/ruby-programming-language.png" />
+<img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20190902124355/ruby-programming-language.png" style="width:50px;height:60px;"/>
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
